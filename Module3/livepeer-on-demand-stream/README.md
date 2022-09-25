@@ -1,4 +1,8 @@
-We are using Livepeer ondemand service to enable effective management and communication setup for Drones utilized in Operations and Maintenance across multiple regions. Drones can be effectively utilized with Livepeer's ondemand support for building operations, inspection and maintenance and safer and more efficient surveys. 
+We are using Livepeer on-demand service to enable effective management and communication setup for Drones utilized in Operations and Maintenance across multiple regions. Drones can be effectively utilized with Livepeer's ondemand support for building operations, inspection and maintenance and safer and more efficient surveys.
+
+Demo: ethops1.mp4 (please visit at https://drive.google.com/drive/folders/1fWCZ3SuJ27xdeR4S8YcnmFtqO7qxbFat for livepeer service)
+
+ethops2.mp4 (please visit at https://drive.google.com/drive/folders/1fWCZ3SuJ27xdeR4S8YcnmFtqO7qxbFat for livepeer service)
 
 # ⏱ Quick Start
 
