@@ -1,7 +1,7 @@
 
 # Zora NFT Drop Media Contracts
 
-### Integrating with Road Incident Management solution
+### Integrating with Incident Management solution
 
 1. Use wagmi/ethers/web3.js with the given artifacts (in the node package) or typechain.
 2. Use our subgraph to find media / metadata information (rinkeby: https://thegraph.com/hosted-service/subgraph/iainnash/erc721droprinkeby) (mainnet: https://thegraph.com/hosted-service/subgraph/iainnash/zora-editions-mainnet)
