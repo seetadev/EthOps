@@ -1,15 +1,15 @@
-```
-        .///.                .///.     //.            .//  `/////////////-
-       `++:++`              .++:++`    :++`          `++:  `++:......---.`
-      `/+: -+/`            `++- :+/`    /+/         `/+/   `++.
-      /+/   :+/            /+:   /+/    `/+/        /+/`   `++.
-  -::/++::`  /+:       -::/++::` `/+:    `++:      :++`    `++/:::::::::.
-  -:+++::-`  `/+:      --++/---`  `++-    .++-    -++.     `++/:::::::::.
-   -++.       .++-      -++`       .++.    .++.  .++-      `++.
-  .++-         -++.    .++.         -++.    -++``++-       `++.
- `++:           :++`  .++-           :++`    :+//+:        `++:----------`
- -/:             :/-  -/:             :/.     ://:         `/////////////-
-```
+Aave governance for extensibility of drone governance on Optimism and Arbitrum: We are using Aave cross chain bridges to extend drone governance to other blockchain networks like Optimism and Arbitrum. 
+
+Please visit https://github.com/seetadev/EthOps/tree/main/Drone-robotics-governance
+
+Governance of Drones and UAVs using Aragon Plugins: A decentralized survey for drone ratings by users using a governance solution built with Aragon plugins at the core is done at key intervals and its onchain voting snapshots enable credibility of ratings. We can enable our smart contracts read the storage of any contract at a given block. This enables on-chain voting, airdrops on Ethereum and Polygon. Please visit https://github.com/seetadev/EthOps/tree/main/Drone-Survey-Ratings and https://github.com/seetadev/EthOps/tree/main/Drone-robotics-governance
+
+We are using Optimistic rollup technology to enable scaling of the decentralized public goods mobility network and effective management and communication setup for Drones utilized in Operations and Maintenance across multiple regions. Drones can be effectively utilized for building operations, inspection and maintenance and safer and more efficient surveys.
+
+Please visit the Optimism faucet configuration screenshots: https://drive.google.com/drive/folders/1ZJQc1qsTT0DA7haYnA0lG2w-lH_iSUAs
+
+Please visit the github link at https://github.com/seetadev/EthOps/tree/main/Module3/drones-scaling-multi-regions
+
 
 # Aave Governance Cross-Chain Bridges
 
