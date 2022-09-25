@@ -1,0 +1,297 @@
+body {
+    margin: 0;
+    /*font-family: 'Quicksand', sans-serif;*/
+}
+
+header {
+    background-image: url("header.jpg");
+    background-size: 100%   400px;
+    height: 400px;
+    background-repeat: no-repeat;
+    text-align: center;
+    /*filter: blur(5px);*/
+}
+
+i {
+    color: white;
+    position: relative;
+    left: 2.7%;
+    top: 1%;
+    /*position: absolute;*/
+}
+
+.adjustment {
+    position: relative;
+}
+
+#down {
+    position: absolute;
+    color: white;
+    z-index: 100;
+    top: -4%;
+}
+/*how to blur background*/
+select{
+    /*position: absolute;*/
+    -webkit-appearance: none;
+    font-family: 'Quicksand', sans-serif;
+    margin-top: 60px;
+    width: 31%;
+    padding: 20px 10px;
+    background-color:  rgba(79, 82, 86, 0.9);
+    color: white;
+    font-size: 25px;
+    border-radius: 6px;
+    border: 2px solid white;
+    z-index: 100;
+    cursor: pointer;
+    position: relative;
+    left: 110px;
+    /*filter: blur(2px);*/
+}
+
+#priority::before{
+    /*filter: blur(5px);*/
+}
+/*----------------WEATHER STARTS-------------------*/
+#m-booked-bl-simple-53975{
+    display: inline;
+    float: right;
+    position: relative;
+    top: 50px;
+    right: 50px;
+}
+
+#width3 {
+    margin: 0px;
+}
+/*----------------WEATHER ENDS---------------------*/
+/*doubt why it is not working*/
+option {
+    /*-webkit-appearance: none;*/
+    padding: 20px;
+    /*background-color: rgba(79, 82, 86, 0.9);*/
+}
+
+header input[type= text]{
+    position: relative;
+    left: -0.8%;
+    top: 70px;
+    width: 30%;
+    padding: 20px 10px;
+    border-radius: 6px;
+    background-color: rgba(79, 82, 86, 0.9);
+    color: white;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 25px;
+    border: 2px solid white;
+
+}
+
+/*
+#blurry{
+    position: absolute;
+    z-index: 99;
+    width: 200px;
+    height: 50px;
+    background-color: rgba(79, 82, 86, 0.9);
+    top: 55%;
+    left: 44%;
+    -webkit-filter: blur(1px);
+    border: 1px white solid;
+}
+*/
+
+header input[type=button]{
+    position: relative;
+    top: 100px;
+    left: -1%;
+    background-color: rgba(79, 82, 86, 0.8);
+    padding: 5px 20px;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 25px;
+    color: white;
+    border: none;
+}
+
+header input[type=button]:hover{
+    top: 100px;
+    left: -1%;
+    background-color: rgba(79, 82, 86, 0.9);
+    font-family: 'Quicksand', sans-serif;
+    font-size: 25px;
+    color: yellow;
+    border: none;
+    cursor: pointer;
+}
+
+#dustbin {
+    position: relative;
+    left: 2%;
+    color: black;
+    margin-top: 10px;
+}
+
+#dustbin:hover {
+    position: relative;
+    left: 2%;
+    color: #D8000C;
+    cursor: pointer;
+}
+.options {
+    font-family: 'Quicksand', sans-serif;
+    display: inline;
+    margin-left: 3%;
+    position: relative;
+    /*top: -3px;*/
+}
+
+#reorder {
+    color: black;
+    position: relative;
+    left: 2%;
+    cursor: pointer;
+}
+
+#reorder:hover {
+    color: #00BCD4;
+    position: relative;
+    left: 2%;
+    cursor: pointer;
+}
+
+#reset {
+    float: right;
+    color: black;
+    margin-right: 100px;
+}
+
+#reset:hover {
+    float: right;
+    color: #FF5722;
+    margin-right: 100px;
+}
+
+#resetText {
+    float: right;
+    position: relative;
+    top: -15px;
+    left: 100px;
+}
+
+#displayTask {
+    text-align: center;
+    display: flex;
+    margin: 50px 50px;
+    flex-wrap: wrap;
+}
+
+#displayTask div {
+    margin: 30px 50px;
+    width: 480px;
+    background-color: #E91E63;
+    height: 100px;
+    filter: drop-shadow(0px 10px 10px rgba(0,0,0,0.4));
+    transition: 0.4s;
+}
+
+
+@media screen and (max-width: 1858px) and (min-width: 1686px){
+    #displayTask {
+        text-align: center;
+        display: flex;
+        margin: 50px 10px;
+        flex-wrap: wrap;
+    }
+
+    #displayTask div {
+        margin: 30px 35px;
+        width: 480px;
+        background-color: #E91E63;
+        height: 100px;
+        filter: drop-shadow(0px 10px 10px rgba(0,0,0,0.4));
+        transition: 0.4s;
+    }
+}
+/*this is not working*/
+@media screen and (max-width 1685px){
+    #displayTask div {
+        margin: 30px 15px;
+        width: 700px;
+        background-color: #E91E63;
+        height: 100px;
+        filter: drop-shadow(0px 10px 10px rgba(0,0,0,0.4));
+        transition: 0.4s;
+    }
+}
+
+#displayTask div:hover {
+    filter:  drop-shadow(0px 20px 20px rgba(0,0,0,0.4));
+}
+
+#displayTask div input[type=checkbox]{
+    opacity: 0;
+    width: 0;
+    margin: 0px 0 0 0;
+    margin-top: 45px;
+}
+
+label[for="items"]{
+    display: inline-block;
+    margin-bottom: 10px;
+    padding-left: 20px;
+    background: url(checks.png) no-repeat;
+
+    background-position: 0 -98px;
+    cursor: pointer;
+}
+
+#displayTask div label{
+    font-family: 'Quicksand', sans-serif;
+    padding: 0px 70px 0px 35px;
+    font-size: 30px;
+    color: white;
+}
+
+/*#displayTask div label{
+    margin-right: 10px;
+}*/
+
+#displayTask i {
+    color: white;
+    cursor: pointer;
+}
+
+#displayTask div span {
+    color: white;
+    font-size: 30px;
+    margin-top: 30px;
+    font-family: 'Quicksand', sans-serif;
+    display: inline-block;
+    /*left: -300px;*/
+}
+
+#check {
+    display: none;
+    position: relative;
+    left: 2%;
+    color: black;
+    margin-top: 10px;
+}
+
+#check:hover {
+    display: none;
+    position: relative;
+    left: 2%;
+    color: #03A9F4;
+    margin-top: 10px;
+}
+
+#show {
+    display: none;
+    position: relative;
+    color: black;
+    left: 0px;
+    margin-top: 10px;
+    /*margin-top: 20px;*/
+}

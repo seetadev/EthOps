@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>todoList</title>
+    <link rel="stylesheet" href="todo.css">
+    <link href="https://fonts.googleapis.com/css?family=Quicksand" rel="stylesheet">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+    <header>
+        <form name="myForm">
+        <select id="priority" name="priority">
+            <option value="0" hidden selected>Select Priority</option>
+            <option value="1">High</option>
+            <option value="2">Moderate</option>
+            <option value="3">Low</option>
+        </select>
+        <i class="fa fa-angle-double-down fa-2x" aria-hidden="true" id="down"></i>
+        <br>
+        <input type="text" id="taskAdded" placeholder="Add Task..."><br>
+
+        <!-- <div id="blurry"></div> -->
+    </form>
+    <input type="button" id="button" value="Add Task">
+    </header>
+
+    <section class="variousOptions">
+        <br>
+        <i class="fa fa-check fa-2x" aria-hidden="true" id="check"></i><h3 class="options" id="show">Show Pending Tasks</h3>
+        <i class="fa fa-trash fa-2x" aria-hidden="true" id="dustbin"></i><h3 class="options" id="deleteStatement">Deleted Tasks Lists</h3>
+        <i class="fa fa-bars fa-2x" aria-hidden="true" id="reorder"></i><h3 class="options">Reorder by Priority</h3>
+        <h3 id="high">High</h3>
+        <h3 id="moderate">Moderate</h3>
+        <h3 id="low">Low</h3>
+        <i class="fa fa-refresh fa-2x" aria-hidden="true" id="reset"></i><span><h3 class="options" id="resetText">Reset List</h3></span>
+    </section>
+
+    <div id="displayTask">
+
+    </div>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script type="text/javascript" src="todoSQL.js">
+
+    </script>
+
+
+</body>
+</html>
