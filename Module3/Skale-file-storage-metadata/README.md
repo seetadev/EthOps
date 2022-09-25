@@ -1,13 +1,11 @@
 
+Skale Network: We are using Skale Network for storing geolocation file data and additional snapshot files and data. This will enable effective management and communication setup for Drones utilized in Operations and Maintenance across multiple regions. Drones can be effectively utilized for building operations, inspection and maintenance and safer and more efficient surveys.
+Please visit https://github.com/seetadev/EthOps/tree/main/Module3/Skale-file-storage-metadata
 
-# SKALE File Storage
 
-**Learn More**
-> **[SKALE File Storage Documentation](https://developers.skalelabs.com/file-storage/)**
+# SKALE's file storage + Bootstrap
 
-# Introduction
-
-This dApp is designed using SKALE's file storage feature, modified with Bootstrap.
+We are using SKALE's file storage feature and Bootstrap.
 
 ### Run App Locally
 
