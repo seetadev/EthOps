@@ -1,17 +1,13 @@
-# tableland-todo
+# Monitoring Notes @ Tableland
+We are using tableland to develop a monitoring notes application for administrators and UAV, defence agencies and are maintaining it along with maintenance and security notes of drones and UAVs. Please visit: https://github.com/seetadev/EthOps/tree/main/Module1/Monitoring-Notes-tableland
 
-
-The initial goal of this project is to serve as a base level POC for Tableland.
 
 ![arch diagram](https://github.com/tablelandnetwork/example-apps/blob/main/tableland-todo/utils/todos-arch-diagram.png?raw=true)
 
 
 
-### This is a Nuxt Project
 
-For detailed explanation on how things work, check out the [documentation](https://nuxtjs.org).
-
-quickstart:
+Monitoring Notes @ Tableland quickstart:
 
 ```bash
 # install dependencies
