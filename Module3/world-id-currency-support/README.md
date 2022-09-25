@@ -1,8 +1,4 @@
-# World ID Starter Kit (Smart Contracts)
-
-**Easiest** way to get started with World ID **on-chain**. This repository contains the minimum requirements to build web3 dApps with [World ID](#-about-world-id), allowing you to easily add sybil-resistance and uniqueness features to your dApp.
-
-> This repository contains the smart contract code, and is built with the [Foundry](https://getfoundry.sh) toolkit. We also have a Hardhat version in the [world-id-starter-hardhat](https://github.com/worldcoin/world-id-starter-hardhat) repository.
+We are using WorldCoin to enable multi-region distribution of the public goods and incentivizing maintainers for effective management and communication setup for Drones utilized in Operations and Maintenance across multiple regions. Drones can be effectively utilized with WorldCoin's currency support for building operations, inspection and maintenance and safer and more efficient surveys. Please visit the link: https://github.com/seetadev/EthOps/tree/main/Module3/world-id-currency-support
 
 ## 🏃 Getting started
 
@@ -121,14 +117,3 @@ We have comprehensive docs for World ID at https://id.worldcoin.org/docs.
 </p>
 </a>
 
-## 🗣 Feedback
-
-**World ID is in Beta, help us improve!** Please share feedback on your experience. You can find us on [Discord](https://discord.gg/worldcoin), look for the [#world-id](https://discord.com/channels/956750052771127337/968523914638688306) channel. You can also open an issue or a PR directly on this repo.
-
-<a href="https://discord.gg/worldcoin">
-<p align="center">
-  <img src="https://raw.githubusercontent.com/worldcoin/world-id-docs/main/static/img/readme-discord.png" alt="Join Discord" height="50" />
-</p>
-</a>
-
-<!-- WORLD-ID-SHARED-README-TAG:END -->
