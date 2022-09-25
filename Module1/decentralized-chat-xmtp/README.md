@@ -1,10 +1,6 @@
-# XMTP Chat with CyberConnect
+We are implementing XMTP Chat for Transport administrators in a particular region with CyberConnect functions.  This will enable  effective management and communication setup for Drones utilized in Operations and Maintenance across multiple regions. Drones can be effectively utilized for building operations, inspection and maintenance and safer and more efficient surveys.
 
-Title: XMTP Chat with CyberConnect (ETH Shanghai Hackathon)
-
-Description: Implemented CyberConnect functions in XMTP Chat project.
-
-Website: http://xmtpchat.herokuapp.com/
+Please visit the implementation link: https://github.com/seetadev/EthOps/tree/main/Module1/decentralized-chat-xmtp
 
 Screenshot:
 ![image](https://user-images.githubusercontent.com/86540499/171000456-4a247025-3ffa-4976-8736-68956371d2d3.png)
