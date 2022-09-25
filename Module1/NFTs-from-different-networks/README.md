@@ -1,9 +1,11 @@
-# Nft Showcases
-A dapp where you can see all NFTs from wallet address in different networks.
+We are using NFTPort to see all NFTs from different networks. 
 
-## Features
-- Users can views their NFTs in different network when they enter their address and select the network such as Ethereum, Polygon (Matic), Avalanche, and Binance Smart Chain
-- Users can view the contract of the NFT such as floor price, unique token ids sold today, gas quote rate day, and list of NFTs minted
+This enables UAV Users:
+
+UAV Users can views their NFTs in different network when they enter their address and select the network such as Ethereum, Polygon (Matic).
+
+UAV Users can view the contract of the NFT such as floor price, unique token ids sold today, gas quote rate day, and list of NFTs minted.
+
 
 ## Technologies
 - React
