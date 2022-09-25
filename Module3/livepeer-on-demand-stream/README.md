@@ -1,6 +1,4 @@
-# ![Livepeer Studio Logo](public/favicon.ico) Livepeer Studio Sample App 
-
-A sample application that demonstrates the features of Livepeer Studio
+We are using Livepeer ondemand service to enable effective management and communication setup for Drones utilized in Operations and Maintenance across multiple regions. Drones can be effectively utilized with Livepeer's ondemand support for building operations, inspection and maintenance and safer and more efficient surveys. 
 
 # ⏱ Quick Start
 
