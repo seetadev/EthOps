@@ -1,6 +1,4 @@
-# ![Livepeer Studio Logo](public/favicon.ico) Livepeer Studio Sample App 
-
-A sample application that demonstrates the features of Livepeer Studio
+We are using Livepeer on-demand service to enable effective management and communication setup for Drones utilized in Operations and Maintenance across multiple regions. Drones can be effectively utilized with Livepeer's ondemand support for building operations, inspection and maintenance and safer and more efficient surveys.Demo: ethops1.mp4 (please visit at https://drive.google.com/drive/folders/1fWCZ3SuJ27xdeR4S8YcnmFtqO7qxbFat for livepeer service. We use Camera Management Module powereded by Livepeer open source video streaming system: Add/edit/delete cameras with integration with Livepeer, NFT.Storage for snapshots of road incident. Livepeer for online video streaming at the road incident spot for better coordination and immediate action)ethops2.mp4 (please visit at https://drive.google.com/drive/folders/1fWCZ3SuJ27xdeR4S8YcnmFtqO7qxbFat for livepeer service)
 
 # ⏱ Quick Start
 
