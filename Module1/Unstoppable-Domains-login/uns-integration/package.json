@@ -1,0 +1,13 @@
+{
+  "name": "login-with-unstoppable-under-5",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "buffer": "^6.0.3",
+    "parcel": "^2.7.0"
+  },
+  "dependencies": {
+    "@uauth/js": "^2.4.0"
+  }
+}
