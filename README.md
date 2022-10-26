@@ -31,6 +31,9 @@ We are planning to develop a platform powered by ethereum and its key solutions 
 
 •Drone Incident Reporting : Publish drone incident reports, preventive measures and remediation using a decentralized twitter application over the Ethereum blockchain network and Embark Tools.
 
+Harmony Marketplace Smart Contracts: https://github.com/seetadev/EthOps/tree/main/Harmony-Blockchain/NFTMarketplacecontracts
+Harmony Vizualizing and Analytics Tool: https://github.com/seetadev/EthOps/tree/main/Harmony-Blockchain/Viz-analytics-platform
+
 Ethereum Tools, Protocols and Techniques Utilized and Details:
 
 1. Tableland: We are using tableland to develop a monitoring notes application and are maintaining it along with maintenance and security notes of drones and UAVs. Please visit: https://github.com/seetadev/EthOps/tree/main/Module1/Monitoring-Notes-tableland
