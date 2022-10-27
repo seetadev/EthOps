@@ -32,7 +32,12 @@ We are planning to develop a platform powered by ethereum and its key solutions 
 •Drone Incident Reporting : Publish drone incident reports, preventive measures and remediation using a decentralized twitter application over the Ethereum blockchain network and Embark Tools.
 
 Harmony Marketplace Smart Contracts: https://github.com/seetadev/EthOps/tree/main/Harmony-Blockchain/NFTMarketplacecontracts
+
+Smart contracts and implementation for Harmony Marketplace.
+
 Harmony Vizualizing and Analytics Tool: https://github.com/seetadev/EthOps/tree/main/Harmony-Blockchain/Viz-analytics-platform
+
+We are developing an open source vizualization tool to enable tabulation, charting, organization and graphing of data.
 
 Ethereum Tools, Protocols and Techniques Utilized and Details:
 
