@@ -1,7 +1,4 @@
-# april-blog
-
-A Blog Platform runs on the top of RSS3
-
+We are extending and adapting the RSS3 powered blog platform and integrating it with monitoring, maintenance and security notes application powered by tableland in the EtherOps project. The monitoring, maintenance and security notes application powered by tableland can be visited at https://github.com/seetadev/EthOps/tree/main/Module1/Monitoring-Notes-tableland
 
 
 # Project Setup
