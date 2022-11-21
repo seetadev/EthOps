@@ -1,17 +1,6 @@
-# Guest Book 📖 
-[![](https://img.shields.io/badge/⋈%20Examples-Basics-green)](https://docs.near.org/tutorials/welcome)
-[![](https://img.shields.io/badge/Gitpod-Ready-orange)](https://gitpod.io/#/https://github.com/near-examples/guest-book-js)
-[![](https://img.shields.io/badge/Contract-js-yellow)](https://docs.near.org/develop/contracts/anatomy)
-[![](https://img.shields.io/badge/Frontend-React-blue)](https://docs.near.org/develop/integrate/frontend)
-[![](https://img.shields.io/badge/Testing-passing-green)](https://docs.near.org/develop/integrate/frontend)
+We are utilizing Near Protocol to receive drone and UAV incident feedback, store feedback details from both users and government officials on the incident reports so that they could strategize more productively and do early stage prevention of collisions.
 
-
-The Guest Book is a simple app that stores messages from users, allowing to pay for a premium message.
-
-![](https://docs.near.org/assets/images/guest-book-b305a87a35cbef2b632ebe289d44f7b2.png)
-
-
-# What This Example Shows
+Steps:
 
 1. How to receive $NEAR on a contract.
 2. How to store and retrieve information from the blockchain.
