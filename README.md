@@ -80,14 +80,17 @@ Please visit the link: https://github.com/seetadev/EthOps/tree/main/Module2/sup
 Please visit the link: https://github.com/seetadev/EthOps/tree/main/Module2/scaling-with-aurora
 We are also utilizing Near Protocol to receive drone and UAV incident feedback, store feedback details from both users and government officials on the incident reports so that they could strategize more productively and do early stage prevention of collisions.
 
-13. Covalent API endpoint: There are 4 endpoint APIs:
+13. We are using Covalent to see all NFTs for NFC tags of Drones across different networks. Further, we have the following 4 Covalent end-points APIs:
 
-Get Log Events By Contract Address - to get log events like sold/listed nft/items on marketplace
+Get Log Events by Contract Address: to get log events like sold/listed nft for NFC tags/NFC Tags of Drones on marketplace. 
 
-Get Log Events By Topics - to get log data for specific event like sold/listed events on marketplace
+Get Log Events by Incident Types: to get log data for specific incident event along with its metadata
 
-Get Historical Token Prices - to get price of token in usd for currency that accept to buy nft/item on marketplace like $TUS, $BNB and $BCOIN
+Get NFT External Metadata: To get metadata for NFT like attribute and snapshot images.
 
-Get Nft External Metadata - to get metadata for nft like the attributes and image
+Get Historical Token Prices: To get price of token for currency that accept NFT/item on marketplace.
+
+
+
 
 
