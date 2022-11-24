@@ -72,14 +72,22 @@ Please visit the github link at https://github.com/seetadev/EthOps/tree/main/Mo
 Please visit https://github.com/seetadev/EthOps/tree/main/Module3/Skale-file-storage-metadata
 
 
-SuperFluid + UMA: We are using Superfluid as a token streaming protocol that lets UAV users and consumers create streams of tokens fluidly between addresses. This will enable effective incentivization, management and communication setup for Drones utilized in Operations and Maintenance. We are extending Superfluid’s streaming tokens with UMA’s KPI Options: Perpetual Conditional Rewards (PCR) tokens that combine Superfluid’s programmable cashflows with UMA’s KPI option concepts. UAV Users and administrators would receive immediate benefits and feedback based on how that KPI was doing. Immediate feedback like this would be highly motivating. 
+11. SuperFluid + UMA: We are using Superfluid as a token streaming protocol that lets UAV users and consumers create streams of tokens fluidly between addresses. This will enable effective incentivization, management and communication setup for Drones utilized in Operations and Maintenance. We are extending Superfluid’s streaming tokens with UMA’s KPI Options: Perpetual Conditional Rewards (PCR) tokens that combine Superfluid’s programmable cashflows with UMA’s KPI option concepts. UAV Users and administrators would receive immediate benefits and feedback based on how that KPI was doing. Immediate feedback like this would be highly motivating. 
 Please visit the link: https://github.com/seetadev/EthOps/tree/main/Module2/superfluid-stream-uma-kpi
 
 
-Near Protocol and Aurora: We are using Aurora to enable scaling of the network and effective management and communication setup for Drones utilized in Operations and Maintenance across multiple regions. Aurora enables dApps to easily move to the NEAR blockchain. It allows users to do two distinct things: upload and interact with Solidity smart contracts on NEAR blockchain and move assets (including ERC-20 tokens) between Ethereum, NEAR and Aurora via the Rainbow Bridge.
+12. Near Protocol and Aurora: We are using Aurora to enable scaling of the network and effective management and communication setup for Drones utilized in Operations and Maintenance across multiple regions. Aurora enables dApps to easily move to the NEAR blockchain. It allows users to do two distinct things: upload and interact with Solidity smart contracts on NEAR blockchain and move assets (including ERC-20 tokens) between Ethereum, NEAR and Aurora via the Rainbow Bridge.
 Please visit the link: https://github.com/seetadev/EthOps/tree/main/Module2/scaling-with-aurora
 We are also utilizing Near Protocol to receive drone and UAV incident feedback, store feedback details from both users and government officials on the incident reports so that they could strategize more productively and do early stage prevention of collisions.
 
+13. Covalent API endpoint: There are 4 endpoint APIs:
 
+Get Log Events By Contract Address - to get log events like sold/listed nft/items on marketplace
+
+Get Log Events By Topics - to get log data for specific event like sold/listed events on marketplace
+
+Get Historical Token Prices - to get price of token in usd for currency that accept to buy nft/item on marketplace like $TUS, $BNB and $BCOIN
+
+Get Nft External Metadata - to get metadata for nft like the attributes and image
 
 
