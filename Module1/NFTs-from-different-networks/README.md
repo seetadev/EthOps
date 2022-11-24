@@ -1,4 +1,4 @@
-We are using NFTPort to see all NFTs from different networks. 
+We are using Covalent and NFTPort to see all NFTs from different networks. 
 
 This enables UAV Users:
 
