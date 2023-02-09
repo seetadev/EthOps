@@ -5,17 +5,17 @@ Inspiration: Remote water monitoring systems have not been used effectively in e
 
 Plan:  Our vision is to carry out research on new models that incorporate technology and which aims at revolutionizing the water management practices around the world . The technology solution is designed specifically to address the needs of the water, health and environment eco-system comprising of civic bodies, water management units, hospitals, environment and health ministry, laboratories, citizens, R&D organizations and improve the operational efficiencies.
 
-Just in Time service Availability of city’s water records suffering from environmental issues across different stakeholder through secure blockchain network.
+Just in Time service: Availability of city’s water records suffering from environmental issues across different stakeholder through secure blockchain network.
 
-Record Management Quality documentation reduces the issues regarding implementation of water management policies.
+Record Management: Quality documentation reduces the issues regarding implementation of water management policies.
 
-Research Research laboratories can use the data for diagnosis of water borne diseases, suggesting personalized action to water treatment plants.
+Research: Research laboratories can use the data for diagnosis of water borne diseases, suggesting personalized action to water treatment plants.
 
-4.Web Application Cloud-based web application with a chat-based interface for quick water wastage attention. It can also be used for environment protection and steps to reduce the issues.
+Web Application: Decentralized Cloud-based web application with a chat-based interface for quick water wastage attention. It can also be used for environment protection and steps to reduce the issues.
 
-Transparency Insurance agencies can utilize the data to provide customized house insurance plans to the customer. Ground water levels are at an all time low.
+Transparency: Insurance agencies can utilize the data to provide customized house insurance plans to the customer. Ground water levels are at an all time low.
 
-Better Management Practices Journal of water usage records covering complete city history improve the policy implementation and help define stringent rules towards saving water.
+Better Management Practices: Journal of water usage records covering complete city history improve the policy implementation and help define stringent rules towards saving water.
 
 We are planning to develop a platform powered by ethereum and its key solutions having the following features:
 
@@ -29,7 +29,7 @@ We are planning to develop a platform powered by ethereum and its key solutions 
 
 •Analysis : Analyzing route patterns and incidents.
 
-•Drone Incident Reporting : Publish drone incident reports, preventive measures and remediation using a decentralized twitter application over the Ethereum blockchain network and Embark Tools.
+•Drone Incident Reporting : Publish drone incident reports
 
 
 # Solana Blockchain:
@@ -40,7 +40,7 @@ We are planning to develop a platform powered by ethereum and its key solutions 
 
 3. Receiving IRL and Online Payments using Solana and QR code scanner: https://github.com/seetadev/EthOps/tree/main/Solana-Analytics-NFTs-Payments/IRL-Online-Payments-Integration/solana-pay-tutorial-start
 
-4. Enabling Private Payments using Elusiv SDK: https://github.com/seetadev/EthOps/tree/main/Solana-Analytics-NFTs-Payments/private-payments-Elusiv-SDK
+4. Enabling Private Payments using Elusiv SDK for Drone Services and Repair, Maintenance AMC: https://github.com/seetadev/EthOps/tree/main/Solana-Analytics-NFTs-Payments/private-payments-Elusiv-SDK
 
 
 # Ethereum, Harmony & Near Tools, Protocols and Techniques Utilized and Details
