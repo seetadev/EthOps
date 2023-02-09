@@ -1,5 +1,6 @@
-# elusiv-samples
-Repo showing sample usage of the compiled Elusiv SDK. More fine-grained info can be found in the [sdk docs](https://elusiv-privacy.github.io/elusiv-sdk/).
+# Enabling Private Payments using Elusiv SDK in Solana
+
+We are enabling Private Payments using Elusiv SDK in Solana and are extending the sample examples available for Drone Services and Repair payments: https://github.com/seetadev/EthOps/tree/main/Solana-Analytics-NFTs-Payments/private-payments-Elusiv-SDK
 
 ## Setup:
 
@@ -22,4 +23,3 @@ Call the sample you want to execute using:
 
 Currently available samples: `topup`, `send`, `txFetching`. (This README might get out of date at some point, so the topmost authority of what samples exist is still the code in `src`)
 
-[^1]: The SDK is currently in private beta. Contact us via [Twitter](https://twitter.com/elusivprivacy) or [Discord](http://discord.gg/elusivprivacy) to request access.
