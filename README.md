@@ -1,4 +1,4 @@
-# Community DAO
+# Drone DAO
 Developer Tools to manage and monitor drones, UAVS and medical embedded devices for cost effective healthcare delivery,  patient monitoring, first aid delivery. Monitoring tools for water management and reducing water wastage. Crowdsourcing information sharing for better and cleaner drinking water, Remote Water Monitoring, Recyclability of Water.
 
 Inspiration: Remote water monitoring systems have not been used effectively in emerging countries. We got motivated to recycle and use old phones and tablets, used devices like computers on providing remote water monitoring facility to prevent havoc in case of hurricanes, excessive rainfall. Chennai floods in 2015 has made it all the more urgent to design, develop and deploy such systems cost effectively.
