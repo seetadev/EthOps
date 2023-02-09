@@ -1,5 +1,5 @@
 # Drone DAO
-Developer Tools to manage and monitor drones, UAVS and medical embedded devices for cost effective healthcare delivery,  patient monitoring, first aid delivery. Monitoring tools for water management and reducing water wastage. Crowdsourcing information sharing for better and cleaner drinking water, Remote Water Monitoring, Recyclability of Water.
+Developer Tools to manage and monitor drones, UAVS and medical embedded devices for cost effective healthcare delivery,  patient monitoring, first aid delivery. Monitoring tools for water management and reducing water wastage. Crowdsourcing information sharing for better and cleaner drinking water, Remote Water Monitoring, Recyclability of Water using Solana Analytics and Visualization tool, Payments Elusiv SDK, Filecoin, Ethereum and key Web3 Eco-system tools.
 
 Inspiration: Remote water monitoring systems have not been used effectively in emerging countries. We got motivated to recycle and use old phones and tablets, used devices like computers on providing remote water monitoring facility to prevent havoc in case of hurricanes, excessive rainfall. Chennai floods in 2015 has made it all the more urgent to design, develop and deploy such systems cost effectively.
 
@@ -32,8 +32,15 @@ We are planning to develop a platform powered by ethereum and its key solutions 
 •Drone Incident Reporting : Publish drone incident reports, preventive measures and remediation using a decentralized twitter application over the Ethereum blockchain network and Embark Tools.
 
 
-# Solana Blockchain
+# Solana Blockchain:
 
+1. Solana Analytics and Visualization Tool: https://github.com/seetadev/EthOps/tree/main/Solana-Analytics-NFTs-Payments/viz-analytics-platform
+
+2. NFT for NFC tags of Drones using Solana NFT Collection: https://github.com/seetadev/EthOps/tree/main/Solana-Analytics-NFTs-Payments/nft-nfc-tags-collection-metaplex
+
+3. Receiving IRL and Online Payments using Solana and QR code scanner: https://github.com/seetadev/EthOps/tree/main/Solana-Analytics-NFTs-Payments/IRL-Online-Payments-Integration/solana-pay-tutorial-start
+
+4. Enabling Private Payments using Elusiv SDK: https://github.com/seetadev/EthOps/tree/main/Solana-Analytics-NFTs-Payments/private-payments-Elusiv-SDK
 
 
 # Ethereum, Harmony & Near Tools, Protocols and Techniques Utilized and Details
