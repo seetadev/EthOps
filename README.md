@@ -1,4 +1,4 @@
-# EthOps
+# Community DAO
 Developer Tools to manage and monitor drones, UAVS and medical embedded devices for cost effective healthcare delivery,  patient monitoring, first aid delivery. Monitoring tools for water management and reducing water wastage. Crowdsourcing information sharing for better and cleaner drinking water, Remote Water Monitoring, Recyclability of Water.
 
 Inspiration: Remote water monitoring systems have not been used effectively in emerging countries. We got motivated to recycle and use old phones and tablets, used devices like computers on providing remote water monitoring facility to prevent havoc in case of hurricanes, excessive rainfall. Chennai floods in 2015 has made it all the more urgent to design, develop and deploy such systems cost effectively.
@@ -31,15 +31,12 @@ We are planning to develop a platform powered by ethereum and its key solutions 
 
 •Drone Incident Reporting : Publish drone incident reports, preventive measures and remediation using a decentralized twitter application over the Ethereum blockchain network and Embark Tools.
 
-Harmony Marketplace Smart Contracts: https://github.com/seetadev/EthOps/tree/main/Harmony-Blockchain/NFTMarketplacecontracts
 
-Smart contracts and implementation for Harmony Marketplace.
+# Solana Blockchain
 
-Harmony Vizualizing and Analytics Tool: https://github.com/seetadev/EthOps/tree/main/Harmony-Blockchain/Viz-analytics-platform
 
-We are developing an open source vizualization tool to enable tabulation, charting, organization and graphing of data.
 
-Ethereum Tools, Protocols and Techniques Utilized and Details:
+# Ethereum, Harmony & Near Tools, Protocols and Techniques Utilized and Details
 
 1. Tableland: We are using tableland to develop a monitoring notes application and are maintaining it along with maintenance and security notes of drones and UAVs. Please visit: https://github.com/seetadev/EthOps/tree/main/Module1/Monitoring-Notes-tableland
 
@@ -63,7 +60,14 @@ Please visit the github link at https://github.com/seetadev/EthOps/tree/main/Mo
 
 7. Livepeer: We are using Livepeer ondemand service to enable effective management and communication setup for Drones utilized in Operations and Maintenance across multiple regions. Drones can be effectively utilized with Livepeer's ondemand support for building operations, inspection and maintenance and safer and more efficient surveys. Please visit ethops1.mp4 (We use Camera Management Module powereded by Livepeer open source video streaming system: Add/edit/delete cameras with integration with Livepeer, NFT.Storage for snapshots of road incident. Livepeer for online video streaming at the road incident spot for better coordination and immediate action) and ethops2.mp4 at https://drive.google.com/drive/folders/1fWCZ3SuJ27xdeR4S8YcnmFtqO7qxbFat
 
-8. Worldcoin - We are using WorldCoin to enable multi-region distribution of the public goods and incentivizing maintainers for effective management and communication setup for Drones utilized in Operations and Maintenance across multiple regions. Drones can be effectively utilized with WorldCoin's currency support for building operations, inspection and maintenance and safer and more efficient surveys. Please visit the link: https://github.com/seetadev/EthOps/tree/main/Module3/world-id-currency-support 
+8. Harmony Marketplace Smart Contracts: https://github.com/seetadev/EthOps/tree/main/Harmony-Blockchain/NFTMarketplacecontracts
+
+Smart contracts and implementation for Harmony Marketplace.
+
+Harmony Vizualizing and Analytics Tool: https://github.com/seetadev/EthOps/tree/main/Harmony-Blockchain/Viz-analytics-platform
+
+We are developing an open source vizualization tool to enable tabulation, charting, organization and graphing of data.
+
 
 9. XMTP: We are implementing XMTP Chat for Transport administrators in a particular region with CyberConnect functions. Please visit the implementation link: https://github.com/seetadev/EthOps/tree/main/Module1/decentralized-chat-xmtp
 
@@ -96,4 +100,5 @@ Get Historical Token Prices: To get price of token for currency that accept NFT/
 15. Chainlink External Adapter returns 4 uint64 packed into a bytes32. This External Adapter is executed by a Job, which is triggered by an External Initiator. Finally, this Job sends a TX to a Smart Contract with the result of the External Adapter, unpacking and saving the 4 uint64. 
 Link: https://github.com/seetadev/EthOps/tree/main/Module1
 
+16.  Worldcoin - We are using WorldCoin to enable multi-region distribution of the public goods and incentivizing maintainers for effective management and communication setup for Drones utilized in Operations and Maintenance across multiple regions. Drones can be effectively utilized with WorldCoin's currency support for building operations, inspection and maintenance and safer and more efficient surveys. Please visit the link: https://github.com/seetadev/EthOps/tree/main/Module3/world-id-currency-support 
 
