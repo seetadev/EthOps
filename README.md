@@ -1,5 +1,5 @@
 # Drone DAO
-Developer Tools to manage and monitor drones, UAVS and medical embedded devices for cost effective healthcare delivery,  patient monitoring, first aid delivery. Monitoring tools for water management and reducing water wastage. Crowdsourcing information sharing for better and cleaner drinking water, Remote Water Monitoring, Recyclability of Water using Solana Analytics and Visualization tool, Payments Elusiv SDK, Filecoin, Ethereum and key Web3 Eco-system tools.
+Developer Tools to manage and monitor drones, UAVS and medical embedded devices for cost effective healthcare delivery,  patient monitoring, first aid delivery. Monitoring tools for water management and reducing water wastage. Crowdsourcing information sharing for better and cleaner drinking water, Remote Water Monitoring, Recyclability of Water using Analytics and Visualization tool, Payments Elusiv SDK, Filecoin, Ethereum and key Web3 Eco-system tools.
 
 Inspiration: Remote water monitoring systems have not been used effectively in emerging countries. We got motivated to recycle and use old phones and tablets, used devices like computers on providing remote water monitoring facility to prevent havoc in case of hurricanes, excessive rainfall. Chennai floods in 2015 has made it all the more urgent to design, develop and deploy such systems cost effectively.
 
@@ -108,4 +108,8 @@ Get Historical Token Prices: To get price of token for currency that accept NFT/
 Link: https://github.com/seetadev/EthOps/tree/main/Module1
 
 16.  Worldcoin - We are using WorldCoin to enable multi-region distribution of the public goods and incentivizing maintainers for effective management and communication setup for Drones utilized in Operations and Maintenance across multiple regions. Drones can be effectively utilized with WorldCoin's currency support for building operations, inspection and maintenance and safer and more efficient surveys. Please visit the link: https://github.com/seetadev/EthOps/tree/main/Module3/world-id-currency-support 
+
+17. XRPL-py-lite for Asset Management, Automation and Reducing decentralized Transaction Costs in Road ICM: We are utilizing xrpl-py-lite for asset management, automation and reducing transaction costs with XRP Ledger in UAV Monitor. This is especially useful for enabling UAV Monitor at all levels - drone drivers, citizen, dispatcher, Ministry of Aerial Transportation and Fleet Organizations. Please visit: https://github.com/seetadev/EthOps/tree/main/Drone-robotics-governance/asset-mgr-xrpl-py-lite
+
+Features of XRPL-py-lite for Asset Management, Automation: Account creation, XRPL and Asset transfer, XRPL and asset management, Creation and management of Escrows, with support for conditions, Creation and management of Checks, Creation and management of Offers, Token creation and management, NFT creation and management.
 
